@@ -58,3 +58,8 @@ img {
 .btn-blue:hover {
   background-color: #0051d8;
 }
+
+.logo {
+  height: 24px;
+  margin-right: 20px;
+}
