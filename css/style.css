@@ -297,3 +297,43 @@ h4 {
   font-weight: 500;
   width: fit-content;
 }
+/*FEATURE*/
+.features-section {
+  padding: 60px 20px;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.features-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  margin-top: 40px;
+}
+
+.feature-card {
+  flex-basis: calc(33.333% - 20px);
+}
+
+.feature-img {
+  width: 100%;
+  margin-bottom: 15px;
+  border-radius: 4px;
+}
+
+.feature-card h3 {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.feature-card p {
+  color: #444;
+}
+
+/*TEAMS*/
+.teams-section {
+  padding: 60px 20px;
+  max-width: 1100px;
+  margin: 0 auto;
+  text-align: left;
+}
