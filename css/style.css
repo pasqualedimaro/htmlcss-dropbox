@@ -385,3 +385,8 @@ footer {
   font-size: 14px;
   color: #aaa;
 }
+
+.caret {
+  font-size: 10px;
+  margin-left: 5px;
+}
